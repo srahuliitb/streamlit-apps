@@ -1,7 +1,7 @@
 # Importing the necessary libraries.
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
+from matplotlib import pyplot as plt
 import seaborn as sns
 import streamlit as st
 from sklearn.model_selection import train_test_split
